@@ -6,7 +6,7 @@ const Counter = ()=>{
         display: "flex",
         justifyContent : "flex-start",
         marginBottom:"20px",
-        gap : "20px"
+        gap : "30px"
     }
     let [count, countUpdate] = useState(0);
     return(
